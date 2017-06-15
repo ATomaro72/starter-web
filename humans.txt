@@ -6,7 +6,7 @@
     Anthony Tomaro atomaro@foundationsoft.comw
 # THANKS
 
-    <name>
+    All my students.
 
 # TECHNOLOGY COLOPHON
 
